@@ -7,3 +7,6 @@
 ## 4.通过一些可信招聘网站，如[23456](https://www.ncss.cn/),这些去看一看国内的招聘资源，当然也是参考，可使用py等搜集信息。
 # **2.关于本人，目前只是大二软件工程的一名普通院校本科生，所理解与认知存在偏差，以上只是我的个人认知，如有错误或不当，请前辈指错，唯有试错才能经历，才有折断的骨是最好的教材。**
 ####                                                                                                    updata 2023/9/16 23：02
+1.Doquestions.txt 为网课脚本
+2.online-courses.txt 已经失效
+3.欢迎访问我的 blog, python syntax 2023/12/25 [click_here](https://laumoyu.blogspot.com/)
